@@ -84,3 +84,12 @@ positions.csv
 
 # pyenv
 .python-version
+# Runtime artifacts (added during cleanup)
+*.log
+pids/
+reports/
+memory_snapshot_*.json
+*_report.json
+.env.backup
+.qoder/
+.playwright-mcp/
