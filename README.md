@@ -48,6 +48,10 @@ python3 -m breakout_bot.cli.main presets
 - Data: WebSocket real-time streams
 - Ops: Bash scripts for process management
 
+## Documentation
+
+Detailed guides live in [`docs/`](docs/): API reference, architecture, production deployment, usage examples, performance tuning, and strategy comparison. Historical development notes are archived in [`docs/archive/`](docs/archive/).
+
 ## Disclaimer
 
 For educational and research purposes. Always test safely.
